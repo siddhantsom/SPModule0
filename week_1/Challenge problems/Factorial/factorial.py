@@ -1,6 +1,20 @@
+#Script to compute the factorial of a large number
+
 import argparse
 
 def compute_factorial(n, filename):
+    """
+    Computes factorial for n and outputs it to a txt file.
+
+    Parameters
+    ----------
+    n : int
+    filename : str
+
+    Returns 
+    -------
+    None
+    """
     result = [1]
 
     for i in range(2, n+1):
@@ -31,6 +45,7 @@ def main():
 if __name__ == "__main__":
     main()
 
+#Example usage - python factorial.py --number 1000 --filename fact.txt
 
 
 

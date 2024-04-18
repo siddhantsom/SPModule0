@@ -1,3 +1,5 @@
+#This script compiles xkcd comics into a single pdf.
+
 import requests
 from bs4 import BeautifulSoup
 import os
@@ -23,6 +25,18 @@ def get_image_from_url(url, folder):
     
 
 def save_images(n, folder):
+    """
+    Downloads all images and saves them in folder. Returns paths to all images.
+
+    Parameters
+    ----------
+    n : number of images to be downloaded (int)
+    folder: name of folder where images are saved (str)
+
+    Returns
+    -------
+    image_paths : paths to all images (list)
+    """
     if not os.path.exists(folder):
         os.makedirs(folder)
 
@@ -41,6 +55,18 @@ def save_images(n, folder):
     return image_paths 
 
 def create_pdf(image_paths, pdf_name):
+    """
+    Compiles all images into a pdf.
+
+    Parameters
+    ----------
+    image_paths : paths to all images to be compiled (list)
+    pdf_name: name of pdf (str)
+
+    Returns
+    -------
+    None
+    """
     images = [Image.open(img_file).convert("RGB") for img_file in image_paths]
     if not pdf_name.endswith('.pdf'):
         pdf_name = pdf_name + '.pdf'
@@ -60,3 +86,4 @@ def main():
 if __name__ == "__main__":
     main()
   
+#Example usage - python xkcd.py --n_comics 2919 --images_folder xkcd_images --pdf_name xkcd_compiled
