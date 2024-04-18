@@ -1,0 +1,51 @@
+https://scrappyart.s3.ap-south-1.amazonaws.com/images/00069.png
+[{'trait_type': 'Background', 'value': 'Galaxy'}, {'trait_type': 'Body', 'value': 'Parrot Green'}, {'trait_type': 'Expressions', 'value': '3D glasses'}, {'trait_type': 'Clothes', 'value': 'Pink Astronaut Suit'}]
+
+https://scrappyart.s3.ap-south-1.amazonaws.com/images/00257.png
+[{'trait_type': 'Background', 'value': 'Galaxy'}, {'trait_type': 'Body', 'value': 'Rusted'}, {'trait_type': 'Expressions', 'value': '3D glasses'}, {'trait_type': 'Clothes', 'value': 'Pink Astronaut Suit'}]
+
+https://scrappyart.s3.ap-south-1.amazonaws.com/images/00346.png
+[{'trait_type': 'Background', 'value': 'Galaxy'}, {'trait_type': 'Body', 'value': 'Tiger'}, {'trait_type': 'Expressions', 'value': 'Shy Blushing'}, {'trait_type': 'Clothes', 'value': 'Pink Astronaut Suit'}]
+
+https://scrappyart.s3.ap-south-1.amazonaws.com/images/00401.png
+[{'trait_type': 'Background', 'value': 'Galaxy'}, {'trait_type': 'Body', 'value': 'Tea Green'}, {'trait_type': 'Expressions', 'value': 'Peering'}, {'trait_type': 'Clothes', 'value': 'Classic Astronaut Suit'}]
+
+https://scrappyart.s3.ap-south-1.amazonaws.com/images/00756.png
+[{'trait_type': 'Background', 'value': 'Galaxy'}, {'trait_type': 'Body', 'value': 'Grass Green'}, {'trait_type': 'Expressions', 'value': 'Winking'}, {'trait_type': 'Clothes', 'value': 'Classic Astronaut Suit'}]
+
+https://scrappyart.s3.ap-south-1.amazonaws.com/images/01071.png
+[{'trait_type': 'Background', 'value': 'Galaxy'}, {'trait_type': 'Body', 'value': 'Purple'}, {'trait_type': 'Expressions', 'value': 'Cat Eye Sunglasses'}, {'trait_type': 'Clothes', 'value': 'Pink Astronaut Suit'}]
+
+https://scrappyart.s3.ap-south-1.amazonaws.com/images/01194.png
+[{'trait_type': 'Background', 'value': 'Galaxy'}, {'trait_type': 'Body', 'value': 'Butter'}, {'trait_type': 'Expressions', 'value': 'Happy'}, {'trait_type': 'Clothes', 'value': 'Blue Astronaut Suit'}]
+
+https://scrappyart.s3.ap-south-1.amazonaws.com/images/01330.png
+[{'trait_type': 'Background', 'value': 'Galaxy'}, {'trait_type': 'Body', 'value': 'Coffee'}, {'trait_type': 'Expressions', 'value': 'Peering'}, {'trait_type': 'Clothes', 'value': 'Classic Astronaut Suit'}]
+
+https://scrappyart.s3.ap-south-1.amazonaws.com/images/01419.png
+[{'trait_type': 'Background', 'value': 'Galaxy'}, {'trait_type': 'Body', 'value': 'Sea Blue'}, {'trait_type': 'Expressions', 'value': 'Peering'}, {'trait_type': 'Clothes', 'value': 'Blue Astronaut Suit'}]
+
+https://scrappyart.s3.ap-south-1.amazonaws.com/images/01439.png
+[{'trait_type': 'Background', 'value': 'Galaxy'}, {'trait_type': 'Body', 'value': 'Leafy Green'}, {'trait_type': 'Expressions', 'value': 'Shy Blushing'}, {'trait_type': 'Clothes', 'value': 'Blue Astronaut Suit'}]
+
+https://scrappyart.s3.ap-south-1.amazonaws.com/images/01615.png
+[{'trait_type': 'Background', 'value': 'Galaxy'}, {'trait_type': 'Body', 'value': 'Tiger'}, {'trait_type': 'Expressions', 'value': 'Constipated'}, {'trait_type': 'Clothes', 'value': 'Pink Astronaut Suit'}]
+
+https://scrappyart.s3.ap-south-1.amazonaws.com/images/01702.png
+[{'trait_type': 'Background', 'value': 'Galaxy'}, {'trait_type': 'Body', 'value': 'Coffee'}, {'trait_type': 'Expressions', 'value': 'Mad'}, {'trait_type': 'Clothes', 'value': 'Blue Astronaut Suit'}]
+
+https://scrappyart.s3.ap-south-1.amazonaws.com/images/01758.png
+[{'trait_type': 'Background', 'value': 'Galaxy'}, {'trait_type': 'Body', 'value': 'Biscuit'}, {'trait_type': 'Expressions', 'value': 'Peering'}, {'trait_type': 'Clothes', 'value': 'Classic Astronaut Suit'}]
+
+https://scrappyart.s3.ap-south-1.amazonaws.com/images/01796.png
+[{'trait_type': 'Background', 'value': 'Galaxy'}, {'trait_type': 'Body', 'value': 'Parrot Green'}, {'trait_type': 'Expressions', 'value': 'Curious'}, {'trait_type': 'Clothes', 'value': 'Pink Astronaut Suit'}]
+
+https://scrappyart.s3.ap-south-1.amazonaws.com/images/01824.png
+[{'trait_type': 'Background', 'value': 'Galaxy'}, {'trait_type': 'Body', 'value': 'Plum Pink'}, {'trait_type': 'Expressions', 'value': 'Curious'}, {'trait_type': 'Clothes', 'value': 'Blue Astronaut Suit'}]
+
+https://scrappyart.s3.ap-south-1.amazonaws.com/images/01867.png
+[{'trait_type': 'Background', 'value': 'Galaxy'}, {'trait_type': 'Body', 'value': 'Bark Brown'}, {'trait_type': 'Expressions', 'value': 'Dizzy'}, {'trait_type': 'Clothes', 'value': 'Blue Astronaut Suit'}]
+
+https://scrappyart.s3.ap-south-1.amazonaws.com/images/01982.png
+[{'trait_type': 'Background', 'value': 'Galaxy'}, {'trait_type': 'Body', 'value': 'Iron'}, {'trait_type': 'Expressions', 'value': 'Cat Eye Sunglasses'}, {'trait_type': 'Clothes', 'value': 'Pink Astronaut Suit'}]
+
