@@ -20,7 +20,6 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--prompt", type = str)
     args = parser.parse_args()
-    print(args.prompt)
     response = get_completion(args.prompt)
     print(response)
 if __name__ == "__main__":
