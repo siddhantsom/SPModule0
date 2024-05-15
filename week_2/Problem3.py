@@ -63,4 +63,4 @@ if __name__ == "__main__":
 
 
 #This game has a few small issues. The model dosen't keep track of everything if asked in the past
-#It also loses track of the number of questions it has aksed, occasioanlly. 
+#It also loses track of the number of questions it has asked, occasioanlly. 
