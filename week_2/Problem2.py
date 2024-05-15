@@ -1,3 +1,5 @@
+#Implementing a basic QnA bot
+
 import os
 import openai
 import argparse

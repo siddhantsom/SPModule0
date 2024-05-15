@@ -1,3 +1,5 @@
+#Using chatgpt to plan a trip
+
 prompt = """
 Hi gpt! I wish to travel to Europe on a trip to view the Northen Lights and also to visit
 some other historic places. Take a deep breath, and write up a detailed plan including the order 
