@@ -69,7 +69,7 @@ def create_pdf(image_paths, pdf_name):
     """
     images = [Image.open(img_file).convert("RGB") for img_file in image_paths]
     if not pdf_name.endswith('.pdf'):
-        pdf_name = pdf_name + '.pdf'
+        pdf_name += '.pdf'
     pdf_path = os.path.join(pdf_name)
     images[0].save(pdf_path, save_all=True, append_images=images[1:])
 
