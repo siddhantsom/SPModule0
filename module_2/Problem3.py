@@ -18,7 +18,6 @@ def get_completion_from_messages(messages, model="gpt-3.5-turbo", temperature=0.
 def collect_messages(prompt, context):
     context.append({'role':'user', 'content':f"{prompt}"})
     response = get_completion_from_messages(context)
-    print(response)
     context.append({'role':'assistant', 'content':f"{response}"})
 
 def twentyQ(context):
@@ -28,11 +27,10 @@ def twentyQ(context):
     print(context[-1]['content'])
     while game:
         prompt = input()
+        if prompt.lowercase() == "end game":
+            game = False
         collect_messages(prompt, context)
         print(context[-1]['content'])
-        if context[-1]['content'] == "Congratulations, you win!" or context[-1]['content'] == "Better luck next time!":
-            print(context)
-            game = False
 
 def main():
     context = [{'role':'system', 'content':"""
@@ -50,7 +48,7 @@ def main():
     write "Better luck next time!". \
     Make sure your questions are fun and engaging. Do not resort to wild guessing \
     Before asking a question, pay attention to each of the user's \
-    answers to all of your previous questions. \
+    answers to all of your previous questions and keep them in mind. \
     The user begins by saying that he wants to play the 20Q game. \
     You then greet the user and ask the category of the entity. \
     Once the user mentions the category, you begin with your first question. \
@@ -62,5 +60,4 @@ if __name__ == "__main__":
     main()
 
 
-#This game has a few small issues. The model dosen't keep track of everything if asked in the past
-#It also loses track of the number of questions it has asked, occasioanlly. 
+#The game ends when the user enters 'end game'
