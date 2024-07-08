@@ -1,0 +1,3 @@
+SELECT title FROM movies
+ORDER BY revenue DESC
+LIMIT 10

@@ -1,0 +1,6 @@
+SELECT directors.name FROM directors
+INNER JOIN movies ON directors.id = movies.director_id
+GROUP BY directors.name
+ORDER BY AVG(movies.revenue) DESC
+LIMIT 5
+
